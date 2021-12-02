@@ -25,6 +25,7 @@ Currently has only the behaviour to drive the matrix, doesn't implement the devi
 ## Project Compilation
 
 Compile LedDriver directory with 
+
 	gppCompiler -g -o driveMatrix main.cpp gpio.cpp MatrixDriver.cpp Drawer.cpp -Wall -Wextra
 
 ## Project Use
