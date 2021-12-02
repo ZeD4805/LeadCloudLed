@@ -1,16 +1,19 @@
 # Lead-Cloud
 
-Cloud-based LED Matrix Solution
+Cloud-based LED Matrix Solution.
+
+Will consist of a remote system to update local raspberry systems on what to display. Will have a number of tasks (i.e. Visual jobs) running at the same time, taking turns displaying.
 
 ### Job Scheduler
-Calls job display update function
-Swaps to jobs
+
+Calls job display update function.
+Swaps to jobs.
 
 ### Visual job
-Representation of job displaying to the matrix
+Representation of job displaying to the matrix.
 
 ### Utils
-Useful implementations
+Useful implementations.
 
 ### LedDriver
 Led Driver Daemon and device driver implementation.
